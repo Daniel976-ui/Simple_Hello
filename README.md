@@ -6,6 +6,6 @@ If you wish to change the start up name you can run simple_hello -d (your desire
 
 To install run 
 "git clone https://github.com/Daniel976-ui/Simple_Hello.git"
-Then run the .deb file in it
+ Then run the .deb file in it
 
 Thanks
