@@ -5,8 +5,7 @@ To make it start up on terminal launch go into your .bashrc file it is found in 
 If you wish to change the start up name you can run simple_hello -d (your desired name)
 
 To install run 
-
-git clone https://github.com/Daniel976-ui/Simple_Hello.git
-
+"git clone https://github.com/Daniel976-ui/Simple_Hello.git"
+Then run the .deb file in it
 
 Thanks
